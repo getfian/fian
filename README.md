@@ -1,4 +1,5 @@
 # Flarum in a Nutshell
+## Only works on PHP 8.1+ (Issue #1)
 _v2022.7.21 for Flarum v1.4.0_
 
 Flarum in a Nutshell is a free and easy way to install Flarum without SSH or Composer. It works with PHP.
